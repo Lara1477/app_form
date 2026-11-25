@@ -1,0 +1,18 @@
+{
+    "name": "Nova app",
+    "short_name": "Nova app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#E9E8FF",
+    "theme_color": "#E9E8FF",
+    "description": "Nova app",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
